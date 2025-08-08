@@ -3,6 +3,12 @@ Hi, I'm Jordan Bird. 👋 Currently, I am a 3rd year PhD student with the [Vanco
 
 **Email:** *<jordan.bird@alumni.ubc.ca>*
 
+![](https://komarev.com/ghpvc/?username=BirdImaging&color=002145)
+
+## Notable Projects
+
+> ***Nature Medicine*** - Characterizing the Physiology of Circulatory Arrest in Humans (Paper, Code)
+
 
 ### Academic Degrees
 |Institution|Degree|Subject Area|Supervisor(s)|Dates|
@@ -10,18 +16,3 @@ Hi, I'm Jordan Bird. 👋 Currently, I am a 3rd year PhD student with the [Vanco
 |University of British Columbia|Ph.D.|Critical Care Medicine|Dr. Mypinder S. Sekhon & Dr. Ryan L. Hoiland|2023-Present|
 |University of British Columbia|M.Sc.|Cardiorespiratory Physiology|Dr. Glen E. Foster|2021-2023|
 |Mount Royal University|B.Sc.|Health Sciences w/ physics minor|Dr. Trevor A. Day|2015-2019|
-
-<!--
-**BirdImaging/BirdImaging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
