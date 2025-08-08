@@ -7,8 +7,6 @@ Hi, I'm Jordan Bird. 👋 Currently, I am a 3rd year PhD student with the [Vanco
 
 ## Notable Projects
 
-> ***Nature Medicine*** - Characterizing the Physiology of Circulatory Arrest in Humans (Paper, Code)
-
 
 ### Academic Degrees
 |Institution|Degree|Subject Area|Supervisor(s)|Dates|
