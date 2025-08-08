@@ -10,7 +10,10 @@
 # Overview
 In an effort of creating reproducible and transparent science, my goal is to share data repositories (through FigShare) and corresponding analysis/statistical code (usually written in R) so that other physiologists and critical care researchers can use this work as resources. Feel free to get in touch about the code and the resources I have available here.  
 
-**Email:** *<jordan.bird@alumni.ubc.ca>*
+**Email**  
+[![](https://custom-icon-badges.demolab.com/badge/jordan.bird@alumni.ubc.ca-150458.svg?logo=mention&logoColor=white&logoSource=feather)](jordan.bird@alumni.ubc.ca)
+
+#
 
 <details>
 <summary><h3>About & Curriculum Vitae</h3></summary>
