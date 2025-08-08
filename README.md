@@ -3,7 +3,7 @@ Hi, I'm Jordan Bird. 👋 Currently, I am a 3rd year PhD student with the [Vanco
 
 **Email:** *<jordan.bird@alumni.ubc.ca>*
 
-![](https://komarev.com/ghpvc/?username=BirdImaging&color=002145)
+![](https://komarev.com/ghpvc/?username=BirdImaging&color=002145&style=plastic&abbreviated=true)
 
 ## Notable Projects
 
