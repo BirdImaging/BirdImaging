@@ -31,9 +31,9 @@ Hi, I'm Jordan Bird. 👋 I'm current a 3rd year PhD student with the [VGH ICU R
 </details>
 
 ## Notable Projects
-![](https://img.shields.io/badge/Paper-Nature_Medicine-informational?style=for-the-badge&logo=doi&logoColor=white&color=E64B35)
-
-
+![](https://img.shields.io/badge/Paper-Nature_Medicine_(2025)-informational?style=for-the-badge&logo=doi&logoColor=white&color=E64B35)
+![](https://custom-icon-badges.demolab.com/badge/Data-Nature_Medicine_(2025)-blue.svg?logo=database&logoColor=white&logoSource=feather&style=for-the-badge&color=E64B35)
+![](https://custom-icon-badges.demolab.com/badge/Code-Nature_Medicine_(2025)-blue.svg?logo=code&logoColor=white&logoSource=feather&style=for-the-badge&color=E64B35)
 
 ### Skills
 ![](https://img.shields.io/badge/Code-R-informational?style=plastic&logo=r&logoColor=white&color=40B4E5)
