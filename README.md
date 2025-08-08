@@ -31,7 +31,7 @@ Hi, I'm Jordan Bird. 👋 I'm current a 3rd year PhD student with the [VGH ICU R
 </details>
 
 ## Notable Projects
-![](https://img.shields.io/badge/Paper-Nature_Medicine-informational?style=plastic&logo=doi&logoColor=white&color=E64B35)
+![](https://img.shields.io/badge/Paper-Nature_Medicine-informational?style=for-the-badge&logo=doi&logoColor=white&color=E64B35)
 
 
 
@@ -40,14 +40,13 @@ Hi, I'm Jordan Bird. 👋 I'm current a 3rd year PhD student with the [VGH ICU R
 ![](https://img.shields.io/badge/Tool-Tidyverse-informational?style=plastic&logo=tidyverse&logoColor=white&color=40B4E5)
 ![](https://img.shields.io/badge/Tool-rstatix-informational?style=plastic&logo=tidyverse&logoColor=white&color=40B4E5)
 ![](https://img.shields.io/badge/Tool-ggplot-informational?style=plastic&logo=tidyverse&logoColor=white&color=40B4E5)
-  
+
 ![](https://img.shields.io/badge/Skill-Data_Visualization-informational?style=plastic&logo=tidyverse&logoColor=white&color=EDB83D)
 ![](https://img.shields.io/badge/Skill-Statistical_Analysis-informational?style=plastic&logoColor=white&color=EDB83D)
 ![](https://img.shields.io/badge/Skill-Scientific_Writing-informational?style=plastic&logoColor=white&color=EDB83D)
-  
+
 ![](https://img.shields.io/badge/Expertise-Cerebrovascular_Physiology-informational?style=plastic&logoColor=white&color=D70026)
 ![](https://img.shields.io/badge/Expertise-Respiratory_Physiology-informational?style=plastic&logoColor=white&color=D70026)
-
 
 <details>
 <summary>More Skills</summary>
@@ -57,7 +56,6 @@ Hi, I'm Jordan Bird. 👋 I'm current a 3rd year PhD student with the [VGH ICU R
 ![](https://img.shields.io/badge/Tool-RMarkdown-informational?style=plastic&logo=tidyverse&logoColor=white&color=40B4E5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=40B4E5)
 
-...
 </details>
 
 
