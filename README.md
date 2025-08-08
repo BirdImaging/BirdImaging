@@ -1,3 +1,9 @@
+<p align="center">
+  <!-- By Jordan Bird - https://github.com/BirdImaging/readme-typing-svg -->
+  <a href="https://github.com/BirdImaging/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Basic%20and%20Translational%20Physiologist;Experienced%20Data%20Scientist;7%20years%20of%20research%20experience;5%20years%20of%20computer%20science%20experience;Lets%20talk%20physiology&font=Times%20New%20Roman&center=true&width=800&height=45&color=000B29&vCenter=true&pause=1000&size=30" /></a>
+</p>
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=plastic&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jordandbird/)
 [![GoogleScholar Badge](https://img.shields.io/badge/Google_Scholar-Profile-informational?style=plastic&logo=googlescholar&logoColor=white&color=0D76A8)](https://scholar.google.com/citations?user=5PLaC0wAAAAJ&hl=en)  
 
