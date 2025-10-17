@@ -15,7 +15,7 @@ In an effort of creating reproducible and transparent science, my goal is to sha
 
 # Notable Projects
 [![](https://img.shields.io/badge/Paper-Nature_Medicine_(2025)-informational?style=for-the-badge&logo=doi&logoColor=white&color=E64B35)](https://www.nature.com/articles/s41591-025-03889-z)
-![](https://custom-icon-badges.demolab.com/badge/Data-Nature_Medicine_(2025)-blue.svg?logo=database&logoColor=white&logoSource=feather&style=for-the-badge&color=E64B35)
+[![](https://custom-icon-badges.demolab.com/badge/Data-Nature_Medicine_(2025)-blue.svg?logo=database&logoColor=white&logoSource=feather&style=for-the-badge&color=E64B35)](https://springernature.figshare.com/articles/dataset/Characterizing_the_Physiology_of_Circulatory_Arrest_in_Humans_-_Data_Repository/29135306)
 [![](https://custom-icon-badges.demolab.com/badge/Code-Nature_Medicine_(2025)-blue.svg?logo=code&logoColor=white&logoSource=feather&style=for-the-badge&color=E64B35)](https://github.com/BirdImaging/Characterizing-the-Physiology-of-Circulatory-Arrest-in-Humans)
 
 
